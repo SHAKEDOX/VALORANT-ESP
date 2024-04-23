@@ -53,6 +53,7 @@ Aimbone
 
 first download the cheat, after that enter the folder (64bit/32bit) press pade.exe
  and let it run. after you can open valorant.
+   
 For see the menu press F1 
 
 
