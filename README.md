@@ -59,6 +59,7 @@ For see the menu press F1
 ## What need to download the cheat
  you need:
 
-Windows 10/11.
+Windows 10/11.    
 An active internet connection.
+
 Enjoy!!!
