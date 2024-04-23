@@ -2,7 +2,7 @@
 
 
 
-![sova-valorant-](https://github.com/SHAKEDOX/VALORANT-ESP/assets/166232277/962ad710-6ce7-4db0-84ef-6669ac514796)
+![SOVA](https://github.com/SHAKEDOX/VALORANT-ESP/assets/166232277/2980ab79-fa2c-4369-b474-293047ef89e3)
 
 ESP
 
@@ -48,13 +48,15 @@ Teammates
 Smooth
 
 Aimbone
- How to dd
+
+How to use the cheat 
+first download the cheat, after that enter the folder (64bit/32bit) press pade.exe
+ and let it run. after you can open valorant.
+For see the menu press F1 
 
 ## Download - [Click here](https://mega.nz/file/JjcUXLBR#x4HdEQt_BRXDGR5SnqqpBsggh9moSZhq-we4ZGSQ-K0)
 
-
-What need to use
-
+What need to download the cheat
  you need:
 
 Windows 10/11.
