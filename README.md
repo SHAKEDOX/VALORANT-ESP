@@ -53,8 +53,7 @@ Aimbone
 ## Download - [Click here](https://mega.nz/file/JjcUXLBR#x4HdEQt_BRXDGR5SnqqpBsggh9moSZhq-we4ZGSQ-K0)
 
 
-
-
-To , you need:
-
-Windows 10.
+What need to use
+ you need:
+Windows 10/11.
+An active internet connection.
