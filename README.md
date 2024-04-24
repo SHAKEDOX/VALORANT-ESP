@@ -56,6 +56,8 @@ first download the cheat, after that enter the folder (64bit/32bit) press pade.e
    
 For see the menu press F1 
 
+## If this did not work
+try enter the folder (padehack) and press (pade.bat) and after (padehack.exe)
 
 ## What need to download the cheat
  you need:
